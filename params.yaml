@@ -1,0 +1,10 @@
+features:
+  sampling_rate: 6000
+  n_mel_coefs: 64
+
+training:
+  learning_rate: 0.0001
+  drop_rate: 0.5
+  batch_size: 32
+  max_epochs: 500
+  dataset_split_seed: 123
