@@ -4,3 +4,4 @@ En el mundo actual, la inteligencia artificial y el procesamiento de señales de
 la detección de eventos de sonidos en mezclas sintéticas, especı́ficamente aquellos que ocurren en un entorno de oficina.
 Este desafı́o tiene como objetivo abordar un escenario realista pero controlado: la identificación y separación de eventos de sonidos superpuestos en una oficina
 simulada. Estos eventos incluyen sonidos comunes como toses, risas, timbres de teléfono y más.
+Los datos se enuentran en https://dcase.community/challenge2016/task-audio-tagging
